@@ -1,0 +1,26 @@
+Title: Taekwondo Tournament Management WordPress Plugin
+Objective: Design and develop a highly secure WordPress plugin for managing taekwondo tournaments, including creating tournament schedules, randomizing participants, and determining the top finishers in each weight class.
+Key Features:
+1. High Security: The plugin should follow the highest security standards to prevent any potential vulnerabilities.
+2. Weight and Age Group Management: The plugin should be able to retrieve and manage the complete list of permitted taekwondo weights and age groups according to the Taekwondo Federation rules. This information can be updated via a configuration file or a database.
+3. Data Entry: The user should be able to manually enter the weight, age group, and names of the participants.
+4. Random Participant Matching: The plugin should be able to randomly match participants in pairs for the tournament. If the number of participants is odd, one person will automatically advance to the next round (bye).
+5. Full support for Persian language and font in the plugin
+6. Display the tournament table: The tournament table must include the following information:
+o Row
+o Taekwondo fighter Hugo Red
+o Taekwondo fighter Hugo Blue
+o Winner of the tournament (selectable options: Draw, Hugo Red, Hugo Blue)
+7. Record the results and next round: After the winner of each match is determined, the result must be recorded and the winners are randomly matched for the next round of the tournament.
+8. End the game and create a new table: By pressing the "End Game" button, the current table is closed and a new table is created for the next round of the tournament. The previous tables are not deleted and are displayed below the new table.
+9. Display the top three of each weight: After all the games in a weight are completed, display the top three first, second and third place
+10. Delete tables: There must be a button to delete all tournament tables.
+11. Shortcode: The plugin must support shortcodes for display on WordPress pages.
+12. Compatibility: The plugin must be compatible with WordPress 6.7.1 and higher.
+13. Graphic design: Tables must be displayed with attractive and user-friendly graphic design.
+14. Persian font: The plugin must support standard Persian fonts.
+Important points:
+• The security of the plugin is a priority.
+• The user-friendliness of the plugin is very important.
+• The graphic design of the tables must be professional and attractive.
+• The top names must be displayed with high-quality graphics.
